@@ -6,3 +6,4 @@ router.use('/matchup', matchupRoutes);
 router.use('/tech', techRoutes);
 
 module.exports = router;
+
