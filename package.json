@@ -1,0 +1,22 @@
+{
+  "name": "tech-matchup-app",
+  "version": "1.0.0",
+  "description": "MERN-stack application that allows users to create a matchup between two technologies and vote on their favorite technology. The application currently uses  GraphQL API built with Apollo Server and Apollo Client. Also use React Router's `<Switch>` component in the routes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonealex/tech-matchup-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonealex/tech-matchup-app/issues"
+  },
+  "homepage": "https://github.com/sharonealex/tech-matchup-app#readme",
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
